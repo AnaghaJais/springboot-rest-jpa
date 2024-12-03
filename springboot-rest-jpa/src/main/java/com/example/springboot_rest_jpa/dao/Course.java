@@ -14,7 +14,6 @@ public class Course {
     private long id;
     @Column
     private String name;
-    @Column
     private String author;
 
     public Course(){
